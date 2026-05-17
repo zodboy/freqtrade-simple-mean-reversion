@@ -10,7 +10,7 @@
 ---
 
 > 🔐 **Safe testing?** Run with [RCS Client](https://github.com/zodboy/rcs-client) — zero-config isolated sandbox.
-> 📊 **Full quant stack?** Explore all strategies at [rcs.com](https://rcs.com).
+> 📊 **Full quant stack?** Explore all strategies at [rcs.buzz](https://rcs.com).
 
 ---
 
